@@ -2,7 +2,6 @@
 
 ## Crypto Price Ticker Widget ##
 
-### The best Crypto Price Ticker Widget ###
 
 
 ### How to customize: ###
