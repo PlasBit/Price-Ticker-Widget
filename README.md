@@ -1,16 +1,16 @@
-# Price-Ticker-Widget
+**# Price-Ticker-Widget #
+**
+**## Crypto Price Ticker Widget ##
+**
+### The best Crypto Price Ticker Widget ###
 
-##Crypto Price Ticker Widget
 
-### 
-
-
-####How to customize:
+#### How to customize:####
 
 ![](https://github.com/PlasBit/Price-Ticker-Widget/blob/main/CustomTicker.gif)
 
 
-####How to copy the code to your wesite:
+#### How to copy the code to your wesite: ####
 
 
 
