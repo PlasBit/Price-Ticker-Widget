@@ -1,7 +1,7 @@
 **# Price-Ticker-Widget #
 **
-**## Crypto Price Ticker Widget ##
-**
+## Crypto Price Ticker Widget ##
+
 ### The best Crypto Price Ticker Widget ###
 
 
