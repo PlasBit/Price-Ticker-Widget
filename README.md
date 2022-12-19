@@ -1,7 +1,7 @@
 # Crypto Price-Ticker-Widget #
 
 
-### The __[Crypto Price Ticker Widget](https://www.plasbit.com/widgets)__ — is a beautiful and easy-to-use real-time website tool to view cryptocurrencies FOR ANY WEBSITES. You can choose from 200 diffrent cryptocurrencies To showcase For FREE on your site. ###
+### The Crypto Price Ticker Widget — is a beautiful and easy-to-use real-time website tool to view cryptocurrencies FOR ANY WEBSITES. You can choose from 200 diffrent cryptocurrencies To showcase For FREE on your site. ###
 
 
 ## [DEMO](https://www.plasbit.com/widgets) ###
