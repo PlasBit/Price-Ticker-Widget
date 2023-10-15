@@ -1,36 +1,48 @@
-# Crypto Price-Ticker-Widget #
+# Crypto Price Ticker Widget 📈
 
+The **Crypto Price Ticker Widget** provides a dynamic display of real-time cryptocurrency prices, allowing website visitors to stay updated with the latest market trends at a glance.
 
-### The Crypto Price Ticker Widget — is a beautiful and easy-to-use real-time website tool to view cryptocurrencies FOR ANY WEBSITES. You can choose from 200 diffrent cryptocurrencies To showcase For FREE on your site. ###
+- 🚀 **Features**: Display real-time prices for top cryptocurrencies, with support for customizing which coins to showcase.
+- 💸 **Cost**: Absolutely FREE!
 
+## [Live Demo]()
+[Click here to see the DEMO](https://www.plasbit.com/widgets)
 
-## [DEMO](https://www.plasbit.com/widgets) ###
+## How to Use
 
+### 1. Customization:
 
-## How to customize: ##
-
+See how easy it is to customize the widget to match your website's theme.
 
 ![](https://github.com/PlasBit/Price-Ticker-Widget/blob/main/CustomTicker.gif)
 
+### 2. Copy to your website:
 
-## How to copy the code into your wesite: ##
-
+Copying the code to your website is straightforward!
 
 ![](https://github.com/PlasBit/Price-Ticker-Widget/blob/main/CopyTicker.gif)
 
-### How To Install ###
+### 3. Installation:
+1. Copy the example provided below.
+2. Tweak it according to your needs.
+3. Seamlessly integrate crypto conversion on your site!
 
-0. Copy [example](#example-) below and set your attributes customize.
-1. Enjoy.
-
----
-
-### Example ###
+### Code Snippet:
 
 ```html
-<!-- Crypto Price Ticker Widget --><div id="crypto_chart" data-coins="BTC,ETH,USDT,USDC,BUSD,DOGE,ADA,MATIC,DAI,SHIB,LTC,SOL,UNI,AVAX,WBTC,LINK,ATOM,ETC,BCH,CRO,ALGO,QNT,APE,NEAR,HBAR,FIL,ICP,PAX,EGLD,BSV,FLOW,AAVE,XTZ,CHZ,SAND,ZEC,MANA,BIT,MKR,XCN,APT,GRT,DASH,SNX" data-theme="linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%)" data-text="#ffffff" data-button="#0581de"></div><script src="https://img.plasbit.com/widget/js/index.js"></script><!-- /Crypto Price Ticker Widget -->
+<!-- Crypto Calculator Widget -->
+<div id="crypto_ticker" data-coins="BTC,ETH" data-cards="" data-rss=""
+    data-theme="linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%)"
+    data-text="#ffffff" data-button="#0581de" data-vertical="false" data-coin="BTC" data-price="USD"
+    data-crypto-amount="1" data-switch-mode="false" data-currency-amount="1" data-language="en">
+</div>
+<script src="https://img.plasbit.com/widget/js/crypto-price-ticker.js"></script>
 ```
 
 
 
-### Check our website for the complete customization of our widgets https://www.plasbit.com/widgets ###
+🎨 **Need More Customization?**
+
+Discover a wide range of customization options on our official site:
+
+🌐 [PlasBit Widgets](https://www.plasbit.com/widgets)
